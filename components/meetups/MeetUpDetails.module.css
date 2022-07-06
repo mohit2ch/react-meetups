@@ -1,0 +1,18 @@
+.details{
+    text-align: center; 
+}
+.details img{
+    width: 100%;
+}
+.content {
+    text-align: center;
+    padding: 1rem;
+}
+  
+.content h3 {
+    font-size: 1.25rem;
+    color: #2c292b;
+}
+.details>p{
+    font-size: small;
+}
